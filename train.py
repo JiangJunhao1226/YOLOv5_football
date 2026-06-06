@@ -16,7 +16,7 @@ Tutorial:   https://docs.ultralytics.com/yolov5/tutorials/train_custom_data
 
 import os
 
-os.environ["GIT_PYTHON_REFRESH"] = 'quiet'
+os.environ["GIT_PYTHON_REFRESH"] = "quiet"
 
 import argparse
 import math
